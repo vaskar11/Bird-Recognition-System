@@ -47,6 +47,9 @@ The model achieves:
 
 Further improvements can be made by expanding the dataset and incorporating more diverse bird species.
 
+### Result Page
+![Result Page](output.png)
+
 ### Usage
 1. Upload an image of a bird using the provided web interface.
 2. The system will classify the bird species and display the Nepali and scientific names.
